@@ -44,15 +44,7 @@ wandb (>=0.10.0)
 
 scikit-learn (>=0.22.0)
 
-Installation
-# Clone the repository
-git clone https://github.com/marijacveevska/fine-tuning_LLM_for_lie_detection
 
-# Navigate into the project directory
-cd fine-tuning_LLM_for_lie_detection
-
-# Install dependencies
-pip install -r requirements.txt
 
 Project Structure
 <details> <summary>Directory Layout</summary>
